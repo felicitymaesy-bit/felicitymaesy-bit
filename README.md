@@ -1,7 +1,13 @@
 # Hi there 👋, I'm Felicity
 
-**Freelance Web Developer | Python Automation (Beginner, Building Real Solutions)**
-I help individuals and small businesses build simple systems and automate repetitive tasks.
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF0dms3cTRqcGIxeTcydnhhbGFqNzd3eGY2eng4NDJpYTNvbDZjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQbN4PCoSx9106Fk7C/giphy.gif" width="450" />
+</p>
+
+**Freelance Web Developer | Python Automation**
+
+I help individuals and small businesses build simple web systems and automate repetitive tasks to save time and improve workflow.
+
 
 ---
 
